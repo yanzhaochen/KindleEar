@@ -1,4 +1,4 @@
-application: chenkindleear
+application: yankindleear
 module: worker
 version: 1
 runtime: python27
